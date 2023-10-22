@@ -1,1 +1,5 @@
-# projetk_WSB_INLN3_AM
+# Projekt o Londynie
+
+## Praca grupowa na zajęciach z GITem
+
+### Jesteśmy GIT!
